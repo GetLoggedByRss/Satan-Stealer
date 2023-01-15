@@ -882,7 +882,7 @@ def Kiwi():
         ]        "memo",
 
         "compte",
-
+def
         "token",
 
         "backup",
